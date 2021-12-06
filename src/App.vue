@@ -9,6 +9,9 @@
     <p>
       This was a demo for mobile Apps.
     </p>
+    <p>
+      Will this trigger update?
+    </p>
   </div>
 </template>
 
