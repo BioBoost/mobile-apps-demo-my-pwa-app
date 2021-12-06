@@ -10,7 +10,7 @@
       This was a demo for mobile Apps.
     </p>
     <p>
-      Will this trigger update?
+      Will this trigger update? Or will this?
     </p>
   </div>
 </template>
