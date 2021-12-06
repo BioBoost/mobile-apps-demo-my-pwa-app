@@ -2,7 +2,7 @@
   <div id="app">
     <h1>This is my Cool PWA</h1>
     <img alt="Vue logo" src="./assets/logo.png">
-    <button v-if="updateAvailable">Click to Update App</button>
+    <button v-if="updateAvailable" @click="update">Click to Update App</button>
     <p>
       This site is created by Nico De Witte
     </p>
