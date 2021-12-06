@@ -6,6 +6,9 @@
     <p>
       This site is created by Nico De Witte @ VIVES
     </p>
+    <p>
+      This was a demo for mobile Apps.
+    </p>
   </div>
 </template>
 
