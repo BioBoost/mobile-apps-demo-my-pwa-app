@@ -4,7 +4,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <button v-if="updateAvailable">Click to Update App</button>
     <p>
-      This site is created by Nico
+      This site is created by Nico De Witte
     </p>
   </div>
 </template>
